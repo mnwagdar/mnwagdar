@@ -6,8 +6,8 @@ PhD Researcher in Mechanical and Aerospace Engineering
 
 - Robotics
 - Multi-Robot Systems
-- Model Predictive Control
 - Learning-Based Control
+- Safety Guarantees
 
 ## Tools
 
